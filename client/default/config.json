@@ -18,9 +18,6 @@
         "id": "org.apache.cordova.geolocation",
         "version": "0.3.8"
     }, {
-        "id": "org.apache.cordova.file",
-        "version": "0.2.5"
-    }, {
         "id": "org.apache.cordova.camera",
         "version": "0.3.1"
     }, {
@@ -29,6 +26,9 @@
     }, {
         "id": "org.apache.cordova.media-capture",
         "version": "0.2.7"
+    }, {
+        "id": "org.apache.cordova.file-transfer",
+        "version": "0.4.5"
     }, {
         "id": "org.apache.cordova.dialogs",
         "version": "0.2.6"
