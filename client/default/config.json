@@ -30,9 +30,6 @@
         "id": "org.apache.cordova.media-capture",
         "version": "0.2.7"
     }, {
-        "id": "org.apache.cordova.file-transfer",
-        "version": "0.4.5"
-    }, {
         "id": "org.apache.cordova.dialogs",
         "version": "0.2.6"
     }, {
